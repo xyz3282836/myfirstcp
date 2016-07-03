@@ -1,0 +1,19 @@
+{
+    "name": "xyz3282836/myfirstcp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ruizhou",
+            "email": "ruizhouliu@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+          "xyz\\": "src/xyz"
+        }
+    },
+    "minimum-stability": "dev"
+}
