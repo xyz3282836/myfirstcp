@@ -12,7 +12,7 @@ class Start
 
     public function run()
     {
-        return 'this is run';
+        return 'this is run yes';
     }
 
 }
