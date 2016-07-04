@@ -16,6 +16,6 @@
             "xyz\\": "src/xyz"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
 
